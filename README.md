@@ -1,7 +1,7 @@
-                                                         ![alt text](image.png)
+                                                         ![alt text](image-9.png)
 # Laberinto: Resolución y Algoritmos de Búsqueda
 
-**Materia**: Algoritmos y Estructuras de Datos  
+**Materia**: Estructuras de Datos  
 **Carrera**: Ingeniería en Sistemas Computacionales  
 **Universidad**: Universidad Politécnica Salesiana  
 **Integrantes**:
