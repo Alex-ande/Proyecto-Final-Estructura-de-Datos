@@ -1,4 +1,4 @@
-                                                         ![alt text](image-9.png)
+![alt text](image-9.png)
 # Laberinto: Resolución y Algoritmos de Búsqueda
 
 **Materia**: Estructuras de Datos  
@@ -61,17 +61,42 @@ La propuesta de solución consiste en implementar un sistema para la resolución
 
 -Una captura por cada algoritmo en acción (DFS, BFS, recursivo, programación dinámica).
 
+*Codigo MazeSolverDFS
+
+![alt text](image-17.png)
+![alt text](image-18.png)
+
+
 *MazeSolverDFS
 
 ![alt text](image-5.png)
 
-*MazeSolverBfs
+-----------
+
+*CodigoMazeSolverBFS
+
+![alt text](image-10.png)
+![alt text](image-11.png)
+
+*MazeSolverBFS
 
 ![alt text](image-4.png)
+
+-----------
+*CodigoMazeSolverRecursivo
+
+![alt text](image-13.png)
+![alt text](image-14.png)
 
 *MazeSolverRecursivo
 
 ![alt text](image-2.png)
+
+------------
+*CodigoMazeSolverDP
+
+![alt text](image-15.png)
+![alt text](image-16.png)
 
 *MazeSolverDP
 
